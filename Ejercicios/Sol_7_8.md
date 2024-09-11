@@ -1,4 +1,3 @@
-md_content = """
 # Solución de Ejercicios de Física General - Sesiones 07-08
 
 ## Ejercicio 1
@@ -128,4 +127,3 @@ md_content = """
 
 **Distancia recorrida:**
 - 22 m
-"""
