@@ -1,2 +1,2 @@
-# emch_fisica
-Recopilación de cuadernos de código de Python para el curso de Física General
+# Bienvenido
+Este repositorio contiene material de repaso para el curso de Física General
