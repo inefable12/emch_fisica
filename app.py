@@ -6,8 +6,6 @@ st.sidebar.image("Recursos/EUdpC.gif",
                  caption="Recursos para Física General")
 
 ####################### Pag 1 #############################
-
-# Función para generar un ejercicio aleatorio basado en la primera ley de Newton
 def generar_ejercicio1():
     ejercicios = [
         "Un automóvil está parado en un semáforo.",
